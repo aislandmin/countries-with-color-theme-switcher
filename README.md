@@ -24,7 +24,7 @@ The users should be able to:
 
 ### Link
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [REST Countries API with color theme switcher](https://countries-with-color-theme-switcher-aislandmin.vercel.app/)
 
 ### Screenshots
 
