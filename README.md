@@ -28,7 +28,17 @@ The users should be able to:
 
 ### Screenshots
 
-![](./screenshot.jpg)
+![](./screenshots/screenshot1.png)
+
+![](./screenshots/screenshot2.png)
+
+![](./screenshots/screenshot3.png)
+
+![](./screenshots/screenshot4.png)
+
+![](./screenshots/screenshot5.png)
+
+![](./screenshots/screenshot6.png)
 
 ## My process
 
